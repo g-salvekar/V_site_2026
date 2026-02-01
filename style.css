@@ -47,13 +47,14 @@ button {
 
 #yes {
   background: #ff4d6d;
-  color: white;
+  color: white
+  margin-left: -20px;
 }
 
 #no {
   background: #eee;
   position: absolute;
-  left: 80%;
+  left: 90%;
 }
 
 .hint {
