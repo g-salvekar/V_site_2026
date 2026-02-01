@@ -6,7 +6,7 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background: linear-gradient(135deg, #de5d83, #ffc1cc);
+  background: #de5d83;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,7 +14,7 @@ body {
 }
 
 .card {
-  background: white;
+  background: #ffd1dc;
   padding: clamp(20px, 5vw, 40px);
   border-radius: 20px;
   text-align: center;
@@ -24,7 +24,7 @@ body {
 }
 
 .emoji {
-  font-size: clamp(40px, 8vw, 56px);
+  font-size: clamp(30px, 8vw, 56px);
 }
 
 h1 {
