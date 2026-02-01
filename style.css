@@ -33,10 +33,8 @@ h1 {
 
 .buttons {
   margin-top: 30px;
-  display: flex;
-  justify-content: center;
-  gap: 60px;
   position: relative;
+  height: 60px;
 }
 
 button {
@@ -55,6 +53,7 @@ button {
 #no {
   background: #eee;
   position: relative;
+  left: 70%
 }
 
 .hint {
