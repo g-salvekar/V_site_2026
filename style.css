@@ -33,8 +33,10 @@ h1 {
 
 .buttons {
   margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 60px;
   position: relative;
-  height: 60px;
 }
 
 button {
@@ -46,15 +48,14 @@ button {
 }
 
 #yes {
-  background: #ff4d6d;
+  background: #a94064;
   color: white
   margin-left: -20px;
 }
 
 #no {
   background: #eee;
-  position: absolute;
-  left: 90%;
+  position: relative;
 }
 
 .hint {
