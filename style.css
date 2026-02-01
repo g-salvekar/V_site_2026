@@ -24,11 +24,11 @@ body {
 }
 
 .emoji {
-  font-size: clamp(15px, 8vw, 56px);
+  font-size: clamp(15px, 8vw, 20px);
 }
 
 h1 {
-  font-size: clamp(20px, 5vw, 26px);
+  font-size: clamp(20px, 5vw, 30px);
 }
 
 .buttons {
