@@ -30,9 +30,9 @@ yesBtn.addEventListener("click", () => {
   });
 
   card.innerHTML = `
-    <div class="emoji">🎉</div>
+    <div class="emoji">😭</div>
     <h1>YAY!!!</h1>
-    <p>You made the correct choice 😌</p>
+    <p>You made the wrong choice🥺 </p>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGE5OGNndm55NDNtZGg0ZDUxenBsZ3ppejh5dmk3emJtcjk0eWI2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xGDaiXa6ds8WS4jXUy/giphy.gif"
          style="width:100%; border-radius:16px; margin-top:20px;">
   `;
