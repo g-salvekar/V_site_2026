@@ -33,7 +33,7 @@ yesBtn.addEventListener("click", () => {
     <div class="emoji">🎉</div>
     <h1>YAY!!!</h1>
     <p>You made the correct choice 😌</p>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJsaWZsanRvbzVscXcwY3k1MG9sbWYxbDRtbDdyZHE5cXgyZG4ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HJibfnd7xqk5hAMD4v/giphy.gif"
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI0aDE1OGcyd205ZTVuaG92amV1dnFoYmYyZDZyeDh4dmozM2xneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sLkIthus9lEwoe7PRx/giphy.gif"
          style="width:100%; border-radius:16px; margin-top:20px;">
   `;
 });
