@@ -52,7 +52,6 @@ button {
 
 #no {
   background: #eee;
-  position: relative;
   left: 70%
 }
 
@@ -61,3 +60,4 @@ button {
   font-size: 14px;
   opacity: 0.6;
 }
+
